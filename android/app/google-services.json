@@ -1,41 +1,35 @@
 {
   "project_info": {
-    "project_number": "502411007369",
-    "project_id": "arctic-diode-300810",
-    "storage_bucket": "arctic-diode-300810.appspot.com"
+    "project_number": "11687720573",
+    "firebase_url": "https://id-application-1.firebaseio.com",
+    "project_id": "id-application-1",
+    "storage_bucket": "id-application-1.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:502411007369:android:bf9a79ec603a6b86387d58",
+        "mobilesdk_app_id": "1:11687720573:android:81fb9f08b3ac1a7db36314",
         "android_client_info": {
-          "package_name": "com.ubxty.shomrim"
+          "package_name": "com.example.tp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "502411007369-n7q9h0q1bpvih5gkigql17jqu16vbm6n.apps.googleusercontent.com",
+          "client_id": "11687720573-q9qj34thjie3kbnt5u89f8k7plld5dpf.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAGPF1KrK_SmLnmPInEQNiuk1Jg0PRf_0Y"
+          "current_key": "AIzaSyALrCdCKqKaXaQc2VDpV3BnOKQmw_xXx-s"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "502411007369-n7q9h0q1bpvih5gkigql17jqu16vbm6n.apps.googleusercontent.com",
+              "client_id": "11687720573-q9qj34thjie3kbnt5u89f8k7plld5dpf.apps.googleusercontent.com",
               "client_type": 3
-            },
-            {
-              "client_id": "502411007369-7ob05647h7qp9h2eodee9ng75lg9eieb.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.ubxty.shomrim"
-              }
             }
           ]
         }
